@@ -1,2 +1,5 @@
 cmake-build-debug
 models
+.idea
+.vscode
+.DS_Store
